@@ -1,0 +1,1979 @@
+<series>
+<serie>
+<Nombre>
+espacio Población ocupada. 16-24 años. espacio
+</Nombre>
+<Codigo>
+espacio 3.5.4 espacio
+</Codigo>
+<Fuente>
+espacio Eustat espacio
+</Fuente>
+<Unidad>
+espacio Miles de personas espacio
+</Unidad>
+<Tipo>
+espacio 2 espacio
+</Tipo>
+<valores>
+<datosvalor>
+<Año>
+espacio 2008 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 59.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2008 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 58.6 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2008 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 58.8 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2008 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 50.1 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2009 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 46.4 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2009 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 44.3 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2009 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 41.0 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2009 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 42.0 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2010 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 41.0 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2010 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 42.3 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2010 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 42.4 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2010 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 37.4 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2011 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 39.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2011 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 39.8 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2011 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 39.0 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2011 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 35.8 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2012 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 37.0 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2012 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 32.1 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2012 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 26.7 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2012 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 25.1 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2013 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 26.7 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2013 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 26.6 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2013 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 32.6 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2013 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 30.9 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2014 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 30.8 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2014 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 32.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2014 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 31.1 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2014 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 25.8 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2015 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 29.9 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2015 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 29.8 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2015 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 31.2 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2015 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 28.3 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2016 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 29.4 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2016 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 31.9 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2016 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 34.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2016 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 28.8 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2017 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 32.2 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2017 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 34.8 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2017 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 31.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2017 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 29.3 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+</valores>
+</serie>
+<serie>
+<Nombre>
+espacio Población ocupada. 25-44 años. espacio
+</Nombre>
+<Codigo>
+espacio 3.5.5 espacio
+</Codigo>
+<Fuente>
+espacio Eustat espacio
+</Fuente>
+<Unidad>
+espacio Miles de personas espacio
+</Unidad>
+<Tipo>
+espacio 2 espacio
+</Tipo>
+<valores>
+<datosvalor>
+<Año>
+espacio 2008 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 563.7 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2008 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 566.7 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2008 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 568.9 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2008 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 562.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2009 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 544.6 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2009 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 538.0 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2009 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 536.0 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2009 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 532.2 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2010 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 522.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2010 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 527.3 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2010 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 531.2 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2010 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 511.3 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2011 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 505.6 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2011 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 506.7 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2011 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 505.2 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2011 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 493.8 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2012 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 483.6 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2012 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 485.9 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2012 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 482.0 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2012 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 470.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2013 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 462.2 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2013 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 460.9 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2013 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 462.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2013 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 453.1 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2014 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 445.6 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2014 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 445.4 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2014 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 450.0 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2014 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 452.0 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2015 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 441.4 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2015 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 446.0 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2015 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 442.9 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2015 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 442.7 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2016 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 440.8 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2016 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 441.6 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2016 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 438.0 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2016 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 437.7 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2017 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 447.7 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2017 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 447.7 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2017 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 440.3 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2017 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 439.8 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+</valores>
+</serie>
+<serie>
+<Nombre>
+espacio Población ocupada. 45 y más años. espacio
+</Nombre>
+<Codigo>
+espacio 3.5.6 espacio
+</Codigo>
+<Fuente>
+espacio Eustat espacio
+</Fuente>
+<Unidad>
+espacio Miles de personas espacio
+</Unidad>
+<Tipo>
+espacio 2 espacio
+</Tipo>
+<valores>
+<datosvalor>
+<Año>
+espacio 2008 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 365.0 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2008 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 363.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2008 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 363.3 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2008 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 363.8 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2009 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 363.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2009 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 363.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2009 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 365.2 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2009 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 369.7 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2010 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 369.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2010 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 370.7 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2010 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 374.7 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2010 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 381.1 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2011 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 382.0 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2011 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 383.4 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2011 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 380.8 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2011 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 388.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2012 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 383.2 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2012 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 388.3 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2012 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 391.0 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2012 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 388.3 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2013 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 395.9 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2013 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 395.8 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2013 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 390.9 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2013 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 399.1 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2014 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 397.8 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2014 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 400.6 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2014 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 402.1 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2014 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 408.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2015 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 414.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2015 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 418.7 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2015 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 422.1 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2015 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 423.8 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2016 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 424.7 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2016 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 430.1 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2016 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 439.1 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2016 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 436.3 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2017 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 432.0 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2017 espacio
+</Año>
+<periodo>
+espacio II espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 443.1 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2017 espacio
+</Año>
+<periodo>
+espacio III espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 445.4 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+espacio 2017 espacio
+</Año>
+<periodo>
+espacio IV espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 449.2 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
+</valores>
+</serie>
+</series>
