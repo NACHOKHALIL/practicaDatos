@@ -1,0 +1,34 @@
+<series>
+<serie>
+<Nombre>
+espacio Población ocupada. 16-24 años. espacio
+</Nombre>
+<Codigo>
+espacio 3.5.4 espacio
+</Codigo>
+<Fuente>
+espacio Eustat espacio
+</Fuente>
+<Unidad>
+espacio Miles de personas espacio
+</Unidad>
+<Tipo>
+espacio 2 espacio
+</Tipo>
+<valores>
+<datosvalor>
+<Año>
+espacio 2008 espacio
+</Año>
+<periodo>
+espacio I espacio
+</periodo>
+<ValorEntidad>
+<Entidad>
+espacio Euskadi espacio
+</Entidad>
+<Valor>
+espacio 59.5 espacio
+</Valor>
+</ValorEntidad>
+</datosvalor>
