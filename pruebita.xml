@@ -1,0 +1,14 @@
+<series>
+<serie>
+<elaborado>2018-09-28T14:01:12</elaborado>
+<validez_ini>2018-09-28T00:00:00</validez_ini>
+<validez_fin>2018-09-29T00:00:00</validez_fin>
+
+<datosvalor>
+<ciudad capital="0" cod_ine="21005" cod_ine_m="21005" nombre="Almonte">
+<tmax>34</tmax>
+<tmin>17</tmin>
+</datosvalor>
+
+</serie>
+</series> 
