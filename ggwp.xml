@@ -1,0 +1,188 @@
+<series>
+<serie>
+<elaborado>2018-09-28T14:01:12</elaborado>
+<validez_ini>2018-09-28T00:00:00</validez_ini>
+<validez_fin>2018-09-29T00:00:00</validez_fin>
+
+<ccaa>
+
+
+
+<datosvalor>
+<ciudad> Huelva </ciudad>
+<tmax>31</tmax>
+<tmin>19</tmin>
+</datosvalor>
+
+<datosvalor>
+<ciudad> Algeciras </ciudad>
+<tmax>24</tmax>
+<tmin>22</tmin>
+</datosvalor>
+
+<datosvalor>
+<ciudad> Cádiz </ciudad>
+<tmax>28</tmax>
+<tmin>23</tmin>
+</datosvalor>
+
+<datosvalor>
+<ciudad> Jerez de la Frontera </ciudad>
+<tmax>33</tmax>
+<tmin>20</tmin>
+</datosvalor>
+
+
+
+
+<datosvalor>
+<ciudad> Córdoba </ciudad>
+<tmax>33</tmax>
+<tmin>18</tmin>
+</datosvalor>
+
+
+
+<datosvalor>
+<ciudad> Sevilla </ciudad>
+<tmax>33</tmax>
+<tmin>21</tmin>
+</datosvalor>
+
+
+<datosvalor>
+<ciudad> Málaga</ciudad>
+<tmax>28</tmax>
+<tmin>22</tmin>
+</datosvalor>
+
+<datosvalor>
+<ciudad> Marbella </ciudad>
+<tmax>25</tmax>
+<tmin>21</tmin>
+</datosvalor>
+
+
+
+<datosvalor>
+<ciudad> Jaén </ciudad>
+<tmax>28</tmax>
+<tmin>18</tmin>
+</datosvalor>
+
+
+
+<datosvalor>
+<ciudad> Granada </ciudad>
+<tmax>31</tmax>
+<tmin>13</tmin>
+</datosvalor>
+
+<datosvalor>
+<ciudad> Almería </ciudad>
+<tmax>30</tmax>
+<tmin>20</tmin>
+</datosvalor>
+
+</ccaa>
+
+ <ccaa> 
+
+<valores>
+<ciudad> Jaca </ciudad>
+<tmax>29</tmax>
+<tmin>8</tmin>
+</valores>
+
+
+
+<valores>
+<ciudad> Huesca </ciudad> 
+<tmax>28</tmax>
+<tmin>15</tmin>
+</valores>
+
+
+
+
+
+<valores>
+<ciudad> Zaragoza </ciudad> 
+<tmax>31</tmax>
+<tmin>16</tmin>
+</valores>
+
+
+
+<valores>
+<ciudad> Calatayud </ciudad> 
+<tmax>29</tmax>
+<tmin>13</tmin>
+</valores>
+
+<valores>
+<ciudad> Calamocha </ciudad> 
+<tmax>28</tmax>
+<tmin>10</tmin>
+</valores>
+
+<valores>
+<ciudad> Alcañiz </ciudad>
+<tmax>29</tmax>
+<tmin>12</tmin>
+</valores>
+
+<valores>
+<ciudad> Teruel </ciudad> 
+<tmax>29</tmax>
+<tmin>9</tmin>
+</valores>
+
+</ccaa>
+
+
+<ccaa>
+
+<valor>
+<ciudad> Aviles </ciudad> 
+<tmax>23</tmax>
+<tmin>18</tmin>
+</valor>
+
+<valor>
+<ciudad> LLanes </ciudad> 
+<tmax>22</tmax>
+<tmin>16</tmin>
+</valor>
+
+<valor>
+<ciudad> Oviedo </ciudad> 
+<tmax>25</tmax>
+<tmin>17</tmin>
+</valor>
+
+<valor>
+<ciudad> Langreo </ciudad> 
+<tmax>26</tmax>
+<tmin>14</tmin>
+</valor>
+
+<valor>
+<ciudad> Gijón </ciudad> 
+<tmax>23</tmax>
+<tmin>18</tmin>
+</valor>
+
+</ccaa>
+
+
+
+<ccaa> 
+
+
+
+
+
+
+</serie>
+</series>
