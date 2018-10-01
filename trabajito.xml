@@ -1,0 +1,734 @@
+<series>
+<serie>
+<elaborado>2018-09-28T14:01:12</elaborado>
+<validez_ini>2018-09-28T00:00:00</validez_ini>
+<validez_fin>2018-09-29T00:00:00</validez_fin>
+
+<ccaa>
+
+
+
+<datosvalor>
+<ciudad> Huelva </ciudad>
+<tmax>31</tmax>
+<tmin>19</tmin>
+</datosvalor>
+
+<datosvalor>
+<ciudad> Algeciras </ciudad>
+<tmax>24</tmax>
+<tmin>22</tmin>
+</datosvalor>
+
+<datosvalor>
+<ciudad> Cádiz </ciudad>
+<tmax>28</tmax>
+<tmin>23</tmin>
+</datosvalor>
+
+<datosvalor>
+<ciudad> Jerez de la Frontera </ciudad>
+<tmax>33</tmax>
+<tmin>20</tmin>
+</datosvalor>
+
+
+
+
+<datosvalor>
+<ciudad> Córdoba </ciudad>
+<tmax>33</tmax>
+<tmin>18</tmin>
+</datosvalor>
+
+
+
+<datosvalor>
+<ciudad> Sevilla </ciudad>
+<tmax>33</tmax>
+<tmin>21</tmin>
+</datosvalor>
+
+
+<datosvalor>
+<ciudad> Málaga</ciudad>
+<tmax>28</tmax>
+<tmin>22</tmin>
+</datosvalor>
+
+<datosvalor>
+<ciudad> Marbella </ciudad>
+<tmax>25</tmax>
+<tmin>21</tmin>
+</datosvalor>
+
+
+
+<datosvalor>
+<ciudad> Jaén </ciudad>
+<tmax>28</tmax>
+<tmin>18</tmin>
+</datosvalor>
+
+
+
+<datosvalor>
+<ciudad> Granada </ciudad>
+<tmax>31</tmax>
+<tmin>13</tmin>
+</datosvalor>
+
+<datosvalor>
+<ciudad> Almería </ciudad>
+<tmax>30</tmax>
+<tmin>20</tmin>
+</datosvalor>
+
+</ccaa>
+
+<ccaa> 
+
+<valores>
+<ciudad> Jaca </ciudad>
+<tmax>29</tmax>
+<tmin>8</tmin>
+</valores>
+
+
+
+<valores>
+<ciudad> Huesca </ciudad> 
+<tmax>28</tmax>
+<tmin>15</tmin>
+</valores>
+
+
+
+<valores>
+<ciudad> Zaragoza </ciudad> 
+<tmax>31</tmax>
+<tmin>16</tmin>
+</valores>
+
+
+
+<valores>
+<ciudad> Calatayud </ciudad> 
+<tmax>29</tmax>
+<tmin>13</tmin>
+</valores>
+
+<valores>
+<ciudad> Calamocha </ciudad> 
+<tmax>28</tmax>
+<tmin>10</tmin>
+</valores>
+
+<valores>
+<ciudad> Alcañiz </ciudad>
+<tmax>29</tmax>
+<tmin>12</tmin>
+</valores>
+
+<valores>
+<ciudad> Teruel </ciudad> 
+<tmax>29</tmax>
+<tmin>9</tmin>
+</valores>
+
+</ccaa>
+
+<ccaa> 
+
+<ast>
+<ciudad> Aviles </ciudad> 
+<tmax>23</tmax>
+<tmin>18</tmin>
+</ast>
+
+<ast>
+<ciudad> Llanes </ciudad>
+<tmax>22</tmax>
+<tmin>16</tmin>
+</ast>
+
+
+<ast>
+<ciudad> Oviedo </ciudad> 
+<tmax>25</tmax>
+<tmin>17</tmin>
+</ast>
+
+
+<ast>
+<ciudad> Gijón </ciudad> 
+<tmax>23</tmax>
+<tmin>18</tmin>
+</ast>
+
+</ccaa>
+
+
+
+
+</serie>
+</series>
+
+<ccaa> 
+
+<bal>
+<ciudad>Maó </ciudad> 
+<tmax>27</tmax>
+<tmin>16</tmin>
+</bal>
+
+<bal>
+<ciudad> Ciudadella de Menorca </ciudad> 
+<tmax>27</tmax>
+<tmin>14</tmin>
+</bal>
+
+<bal>
+<ciudad> Palma de Mallorca </ciudad> 
+<tmax>28</tmax>
+<tmin>15</tmin>
+</bal>
+
+<bal>
+<ciudad> Pobla. Sa <ciudad> 
+<tmax>28</tmax>
+<tmin>12</tmin>
+</bal>
+
+
+<bal>
+<ciudad> Eivissa </ciudad> 
+<tmax>27</tmax>
+<tmin>17</tmin>
+</bal>
+
+</ccaa>
+
+<ccaa> 
+
+<datos>
+<ciudad> Arrecife </ciudad> 
+<tmax>29</tmax>
+<tmin>22</tmin>
+</datos>
+
+<datos>
+<ciudad> Palmas de Gran Canaria. Las </ciudad> 
+<tmax>26</tmax>
+<tmin>22</tmin>
+</datos>
+
+
+<datos>
+<ciudad> Santa Cruz de Tenerife </ciudad> 
+<tmax>27</tmax>
+<tmin>22</tmin>
+</datos>
+
+<datos>
+<ciudad> San Sebastián de la Gomera </ciudad> 
+<tmax>28</tmax>
+<tmin>22</tmin>
+</datos>
+
+<datos>
+<ciudad> Santa Cruz de la Palma </ciudad>
+<tmax>26</tmax>
+<tmin>21</tmin>
+</datos>
+
+</ccaa>
+
+
+<ccaa>
+
+<dat>
+<ciudad> Cabezon de la Sal </ciudad> 
+<tmax>23</tmax>
+<tmin>17</tmin>
+</dat>
+
+<dat>
+<ciudad> San Vicente de la Barquera </ciudad> 
+<tmax>20</tmax>
+<tmin>16</tmin>
+</dat>
+
+<dat>
+<ciudad> Santander </ciudad> 
+<tmax>23</tmax>
+<tmin>16</tmin>
+</dat>
+
+<dat>
+<ciudad> Castro-Urdiales </ciudad> 
+<tmax>23</tmax>
+<tmin>17</tmin>
+</dat>
+
+<dat>
+<ciudad> Torrelavega </ciduad> 
+<tmax>23</tmax>
+<tmin>15</tmin>
+</dat>
+
+</ccaa>
+
+
+<ccaa> 
+
+<var>
+<ciudad> Ponferrada </ciudad>
+<tmax>30</tmax>
+<tmin>12</tmin>
+</var>
+
+<var>
+<ciudad> Astorga </ciudad>
+<tmax>29</tmax>
+<tmin>13</tmin>
+</var>
+
+<var>
+<ciudad> Leon </ciudad> 
+<tmax>29</tmax>
+<tmin>14</tmin>
+</var>
+
+<var>
+<ciudad> Palencia </ciudad> 
+<tmax>30</tmax>
+<tmin>10</tmin>
+</var>
+
+
+
+
+<var>
+<ciudad> Burgos </ciudad> 
+<tmax>28</tmax>
+<tmin>8</tmin>
+</var>
+
+
+<var>
+<ciudad> Zamora </ciudad>
+<tmax>31</tmax>
+<tmin>14</tmin>
+</var>
+
+<var>
+<ciudad> Valladolid </ciudad> 
+<tmax>30</tmax>
+<tmin>14</tmin>
+</var>
+
+<var>
+<ciudad> Soria </ciudad> 
+<tmax>28</tmax>
+<tmin>12</tmin>
+</var>
+
+
+<var>
+<ciudad> Salamanca </ciudad> 
+<tmax>30</tmax>
+<tmin>13</tmin>
+</var>
+
+
+<var>
+<ciudad> Avila </ciduad>
+<tmax>27</tmax>
+<tmin>12</tmin>
+</var>
+
+
+<var>
+<ciudad> Segovia </ciudad> 
+<tmax>29</tmax>
+<tmin>14</tmin>
+</var>
+
+
+</ccaa>
+
+<ccaa> 
+
+<va>
+<ciudad> Guadalajara </ciudad>
+<tmax>31</tmax>
+<tmin>13</tmin>
+</va>
+
+<va>
+<ciudad> Cuenca </ciudad> 
+<tmax>30</tmax>
+<tmin>11</tmin>
+</va>
+
+<va>
+<ciudad> Albacete </ciudad> 
+<tmax>28</tmax>
+<tmin>13</tmin>
+</va>
+
+<va>
+<ciudad> Villarrobledo </ciduad> 
+<tmax>30</tmax>
+<tmin>13</tmin>
+</va>
+
+
+<va>
+<ciudad> Toledo </ciudad>
+<tmax>31</tmax>
+<tmin>15</tmin>
+</va>
+
+<va>
+<ciudad> Talavera de la Reina </ciudad> 
+<tmax>32</tmax>
+<tmin>16</tmin>
+</va>
+
+
+<va>
+<ciudad> Ciudad Real </ciudad> 
+<tmax>30</tmax>
+<tmin>13</tmin>
+</va>
+
+
+</ccaa>
+
+
+<ccaa> 
+
+<v>
+<ciudad> Lleida </ciudad> 
+<tmax>31</tmax>
+<tmin>13</tmin>
+</v>
+
+
+
+<v>
+<ciudad> Figueres </ciudad>  
+<tmax>30</tmax>
+<tmin>13</tmin>
+</v>
+
+<v>
+<ciudad> Girona </ciudad> 
+<tmax>32</tmax>
+<tmin>13</tmin>
+</v>
+
+
+<v>
+<ciudad> Vic </ciudad> 
+<tmax>28</tmax>
+<tmin>12</tmin>
+</v>
+
+
+<v>
+<ciudad> Sabadell </ciduad> 
+<tmax>30</tmax>
+<tmin>14</tmin>
+</v>
+
+<v>
+<ciudad> Barcelona </ciudad>  
+<tmax>28</tmax>
+<tmin>17</tmin>
+</v>
+
+
+
+<v>
+<ciudad> Tarragona </ciudad> 
+<tmax>28</tmax>
+<tmin>17</tmin>
+</v>
+
+<v>
+<ciudad> Reus </ciudad>
+<tmax>28</tmax>
+<tmin>15</tmin>
+</v>
+
+
+</ccaa>
+
+<ccaa>
+
+<vat>
+<ciudad> Cáceres </ciudad>
+<tmax>32</tmax>
+<tmin>17</tmin>
+</vat>
+
+<vat>
+<ciudad> Plasencia </ciudad> 
+<tmax>33</tmax>
+<tmin>20</tmin>
+</vat>
+
+
+
+<vat>
+<ciudad> Badajoz </ciudad> 
+<tmax>34</tmax>
+<tmin>19</tmin>
+</vat>
+
+
+<vat>
+<ciudad> Mérida </ciudad> 
+<tmax>34</tmax>
+<tmin>18</tmin>
+</vat>
+
+</ccaa>
+
+<ccaa> 
+
+<gal>
+<ciudad> A coruña </ciudad> 
+<tmax>21</tmax>
+<tmin>18</tmin>
+</gal>
+
+<gal>
+<ciudad> Santiago de Compostela </ciudad> 
+<tmax>28</tmax>
+<tmin>16</tmin>
+</gal>
+
+
+<gal>
+<ciudad> Lugo </ciudad> 
+<tmax>30</tmax>
+<tmin>13</tmin>
+</gal>
+
+
+<gal>
+<ciudad> Pontevedra </ciudad> 
+<tmax>24</tmax>
+<tmin>15</tmin>
+</gal>
+
+<gal>
+<ciudad> Vigo </ciudad> 
+<tmax>22</tmax>
+<tmin>15</tmin>
+</gal>
+
+
+<gal>
+<ciudad> Ourense </ciudad> 
+<tmax>33</tmax>
+<tmin>16</tmin>
+</gal>
+
+
+</ccaa>
+
+<ccaa>
+
+<mad>
+<ciudad> Madrid </ciudad>
+<tmax>30</tmax>
+<tmin>15</tmin>
+</mad>
+
+<mad>
+<ciudad> Alcalá de Henares </ciudad> 
+<tmax>32</tmax>
+<tmin>13</tmin>
+</mad>
+
+<mad>
+<ciudad> Getafe </ciduad> 
+<tmax>31</tmax>
+<tmin>15</tmin>
+</mad>
+
+<mad>
+<ciudad> Navalcarnero </ciudad>
+<tmax>30</tmax>
+<tmin>16</tmin>
+</mad>
+
+<mad>
+<ciudad> Aranjuez </ciudad> 
+<tmax>31</tmax>
+<tmin>15</tmin>
+</mad>
+
+
+</ccaa>
+
+<ccaa>
+
+<mur>
+<ciudad> Cartagena </ciudad> 
+<tmax>26</tmax>
+<tmin>21</tmin>
+</mur>
+
+<mur>
+<ciudad> Lorca </ciudad> 
+<tmax>28</tmax>
+<tmin>18</tmin>
+</mur>
+
+<mur>
+<ciudad> Murcia </ciudad> 
+<tmax>29</tmax>
+<tmin>17</tmin>
+</mur>
+
+</ccaa>
+
+<ccaa>
+
+<nav>
+<ciudad> Estella-Lizarra </ciudad> 
+<tmax>30</tmax>
+<tmin>14</tmin>
+</nav>
+
+<nav>
+<ciudad> Pamplona/Iruña </ciudad>
+<tmax>29</tmax>
+<tmin>14</tmin>
+</nav>
+
+
+<nav>
+<ciudad> Tudela </ciudad> 
+<tmax>31</tmax>
+<tmin>15</tmin>
+</nav>
+
+</ccaa>
+
+<ccaa>
+
+<vasc>
+<ciudad> Bilbao </ciudad> 
+<tmax>28</tmax>
+<tmin>20</tmin>
+</vasc>
+
+
+<vasc>
+<ciudad> Donostia/San Sebastián </ciudad> 
+<tmax>24</tmax>
+<tmin>20</tmin>
+</vasc>
+
+<vasc>
+<ciudad> Eibar </ciudad> 
+<tmax>27</tmax>
+<tmin>18</tmin>
+</vasc>
+
+
+<vasc>
+<ciudad> Vitoria-Gasteiz </ciudad> 
+<tmax>28</tmax>
+<tmin>11</tmin>
+</vasc>
+
+<vasc>
+<ciudad> Laguardia </ciudad> 
+<tmax>29</tmax>
+<tmin>16</tmin>
+</vasc>
+
+
+</ccaa>
+
+
+<ccaa>
+
+<rioj>
+<ciudad> Haro </ciudad> 
+<tmax>29</tmax>
+<tmin>13</tmin>
+</rioj>
+
+<rioj>
+<ciudad> Calahorra </ciudad>
+<tmax>31</tmax>
+<tmin>13</tmin>
+</rioj>
+
+<rioj>
+<ciudad> Logroño </ciudad> 
+<tmax>31</tmax>
+<tmin>14</tmin>
+</rioj>
+
+</ccaa>
+
+<ccaa>
+
+<comval>
+<ciudad> Castellón de la Plana </ciudad> 
+<tmax>28</tmax>
+<tmin>16</tmin>
+</comval>
+
+<comval>
+<ciudad> Gandía </ciudad> 
+<tmax>26</tmax>
+<tmin>17</tmin>
+</comval>
+
+<comval>
+<ciudad> Valencia </ciudad>  
+<tmax>28</tmax>
+<tmin>16</tmin>
+</comval>
+
+<comval>
+<ciudad> Alicante </ciudad> 
+<tmax>28</tmax>
+<tmin>18</tmin>
+</comval>
+
+
+<comval>
+<ciudad> Dénia </ciudad> 
+<tmax>27</tmax>
+<tmin>18</tmin>
+</comval>
+
+<comval>
+<ciudad> Elche </ciudad> 
+<tmax>28</tmax>
+<tmin>16</tmin>
+</comval>
+
+<comval>
+<ciudad> Alcoy </ciudad> 
+<tmax>25</tmax>
+<tmin>13</tmin>
+</comval>
+
+
+</ccaa>
+
+</serie>
+</series>
