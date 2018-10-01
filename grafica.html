@@ -1,0 +1,79 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawVisualization);
+      function drawVisualization() {
+        // Some raw data (not necessarily accurate)
+        var data = google.visualization.arrayToDataTable([
+	['Poblacion','T_min','T_max'],
+	['Huelva',19,31],
+	['Algeciras',22,24],
+	['Cádiz',23,28],
+	['Jerez de la Frontera',20,33],
+	['Córdoba',18,33],
+	['Sevilla',21,33],
+	['Málaga',22,28],
+	['Marbella',21,25],
+	['Jaén',18,28],
+	['Granada',13,31],
+	['Almería',20,30]
+	  ]);
+	  var data2 = google.visualization.arrayToDataTable([
+	['Poblacion','T_min','T_max'],
+	['Jaca',8,29],
+	['Huesca',15,28],
+	['Zaragoza',16,31],
+	['Calatayud',13,29],
+	['Calamocha',10,28],
+	['Alcañiz',12,29],
+	['Teruel',9,29]
+	  ]);
+	  
+	   var data3 = google.visualization.arrayToDataTable([
+		['Poblacion','T_min','T_max'],	
+		['Aviles',18,23],
+		['Llanes',16,22],
+		['Oviedo',17,25],
+		['Gijón',18,23]
+	  ]);
+    	var options = {
+      title : 'Temperaturas máximas y mínimas en la comunidad autónoma de ANDALUCÍA ',
+      vAxis: {title: 'Temperaturas'},
+      hAxis: {title: 'Población'},
+      seriesType: 'bars',
+      series: {3: {type: 'line'}}
+	 }; 
+	 var options2 = {
+      title : 'Temperaturas máximas y mínimas en la comunidad autónoma de ARAGÓN',
+      vAxis: {title: 'Temperaturas'},
+      hAxis: {title: 'Población'},
+      seriesType: 'bars',
+      series: {3: {type: 'line'}}  
+    };
+	
+	 var options3 = {
+      title : 'Temperaturas máximas y mínimas en la comunidad autónoma de ASTURIAS',
+      vAxis: {title: 'Temperaturas'},
+      hAxis: {title: 'Población'},
+      seriesType: 'bars',
+      series: {3: {type: 'line'}}  
+    };
+	
+    var chart = new google.visualization.ComboChart(document.getElementById('chart_div'));
+    var chart2 = new google.visualization.ComboChart(document.getElementById('chart_div2'));
+	var chart3 = new google.visualization.ComboChart(document.getElementById('chart_div3'));
+    chart.draw(data, options);
+    chart2.draw(data2, options2);
+	chart3.draw(data3, options3);
+  }
+    </script>
+  </head>
+  <body>
+  <img src="https://nachokhalil.github.io/practicaDatos/nube.gif" height="100px" width="200px">
+    <div id="chart_div" style="width: 1200px; height: 600px;"></div>
+    <div id="chart_div2" style="width: 1200px; height: 500px;"></div>
+	<div id="chart_div3" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>
